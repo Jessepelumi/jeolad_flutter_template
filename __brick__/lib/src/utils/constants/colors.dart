@@ -12,7 +12,7 @@ class AppColors {
 
   // Neutral Shades
   static const Color grey = Color(0xFFE0E0E0);
-  static const Color dark_grey = Color(0xFF939393);
+  static const Color darkGrey = Color(0xFF939393);
 
   // Validation Colors
   static const Color error = Color(0xFFD32F2F);
