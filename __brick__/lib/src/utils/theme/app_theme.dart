@@ -11,7 +11,7 @@ class AppTheme {
   AppTheme._();
 
   // Light Theme
-  static ThemeData light_theme = ThemeData(
+  static ThemeData lightTheme = ThemeData(
     useMaterial3: true,
     fontFamily: GoogleFonts.spaceGrotesk().fontFamily,
     brightness: Brightness.light,
@@ -25,7 +25,7 @@ class AppTheme {
   );
 
   // Dark Theme
-  static ThemeData dark_theme = ThemeData(
+  static ThemeData darkTheme = ThemeData(
     useMaterial3: true,
     fontFamily: GoogleFonts.spaceGrotesk().fontFamily,
     brightness: Brightness.dark,

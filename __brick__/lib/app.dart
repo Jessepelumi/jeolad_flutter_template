@@ -10,8 +10,8 @@ class App extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system,
-      theme: AppTheme.light_theme,
-      darkTheme: AppTheme.dark_theme,
+      theme: AppTheme.lightTheme,
+      darkTheme: AppTheme.darkTheme,
       home: Scaffold(
         backgroundColor: AppColors.light,
         body: Center(
