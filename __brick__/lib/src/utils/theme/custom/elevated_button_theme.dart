@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_starter/src/utils/constants/colors.dart';
-import 'package:flutter_starter/src/utils/constants/sizes.dart';
+import 'package:jeolad_flutter_template/src/utils/constants/colors.dart';
+import 'package:jeolad_flutter_template/src/utils/constants/sizes.dart';
 
 class AppElevatedButtonTheme {
   AppElevatedButtonTheme._();

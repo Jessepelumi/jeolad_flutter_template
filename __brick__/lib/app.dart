@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_starter/src/utils/constants/colors.dart';
-import 'package:flutter_starter/src/utils/theme/app_theme.dart';
+import 'package:jeolad_flutter_template/src/utils/constants/colors.dart';
+import 'package:jeolad_flutter_template/src/utils/theme/app_theme.dart';
 
 class App extends StatelessWidget {
   const App({super.key});

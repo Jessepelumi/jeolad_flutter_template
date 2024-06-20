@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_starter/app.dart';
+import 'package:jeolad_flutter_template/app.dart';
 
 void main() {
   runApp(const App());

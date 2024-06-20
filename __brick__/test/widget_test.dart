@@ -5,7 +5,7 @@
 // You can also read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter/material.dart';
-import 'package:flutter_starter/app.dart';
+import 'package:jeolad_flutter_template/app.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
