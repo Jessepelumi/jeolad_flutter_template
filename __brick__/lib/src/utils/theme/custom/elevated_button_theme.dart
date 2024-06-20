@@ -16,7 +16,7 @@ class AppElevatedButtonTheme {
       side: const BorderSide(color: AppColors.primary),
       padding: const EdgeInsets.symmetric(vertical: AppSizes.medium),
       textStyle: const TextStyle(
-        fontSize: AppSizes.font_medium,
+        fontSize: AppSizes.fontMedium,
         color: AppColors.light,
         fontWeight: FontWeight.w600,
       ),
@@ -37,7 +37,7 @@ class AppElevatedButtonTheme {
       side: const BorderSide(color: AppColors.primary),
       padding: const EdgeInsets.symmetric(vertical: AppSizes.medium),
       textStyle: const TextStyle(
-        fontSize: AppSizes.font_medium,
+        fontSize: AppSizes.fontMedium,
         color: AppColors.light,
         fontWeight: FontWeight.w600,
       ),

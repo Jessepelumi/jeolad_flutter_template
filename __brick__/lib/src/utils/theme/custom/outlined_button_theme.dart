@@ -12,7 +12,7 @@ class AppOutlinedButtonTheme {
       foregroundColor: AppColors.dark,
       side: const BorderSide(color: AppColors.primary),
       textStyle: const TextStyle(
-        fontSize: AppSizes.font_medium,
+        fontSize: AppSizes.fontMedium,
         color: AppColors.dark,
         fontWeight: FontWeight.w600,
       ),
@@ -21,7 +21,7 @@ class AppOutlinedButtonTheme {
         horizontal: AppSizes.large,
       ),
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(AppSizes.radius_large),
+        borderRadius: BorderRadius.circular(AppSizes.radiusLarge),
       ),
     ),
   );
@@ -33,7 +33,7 @@ class AppOutlinedButtonTheme {
       foregroundColor: AppColors.light,
       side: const BorderSide(color: AppColors.primary),
       textStyle: const TextStyle(
-        fontSize: AppSizes.font_medium,
+        fontSize: AppSizes.fontMedium,
         color: AppColors.light,
         fontWeight: FontWeight.w600,
       ),
@@ -42,7 +42,7 @@ class AppOutlinedButtonTheme {
         horizontal: AppSizes.large,
       ),
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(AppSizes.radius_large),
+        borderRadius: BorderRadius.circular(AppSizes.radiusLarge),
       ),
     ),
   );

@@ -14,14 +14,14 @@ class AppAppBarTheme {
     surfaceTintColor: Colors.transparent,
     iconTheme: IconThemeData(
       color: AppColors.dark,
-      size: AppSizes.icon_medium,
+      size: AppSizes.iconMedium,
     ),
     actionsIconTheme: IconThemeData(
       color: AppColors.dark,
-      size: AppSizes.icon_medium,
+      size: AppSizes.iconMedium,
     ),
     titleTextStyle: TextStyle(
-      fontSize: AppSizes.font_large,
+      fontSize: AppSizes.fontLarge,
       fontWeight: FontWeight.w600,
       color: AppColors.dark,
     ),
@@ -36,14 +36,14 @@ class AppAppBarTheme {
     surfaceTintColor: Colors.transparent,
     iconTheme: IconThemeData(
       color: AppColors.dark,
-      size: AppSizes.icon_medium,
+      size: AppSizes.iconMedium,
     ),
     actionsIconTheme: IconThemeData(
       color: AppColors.dark,
-      size: AppSizes.icon_medium,
+      size: AppSizes.iconMedium,
     ),
     titleTextStyle: TextStyle(
-      fontSize: AppSizes.font_large,
+      fontSize: AppSizes.fontLarge,
       fontWeight: FontWeight.w600,
       color: AppColors.dark,
     ),
