@@ -1,0 +1,30 @@
+# -- Edit name & description as required for your project --
+name: flutter_starter
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+# All Packages Used
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Product Specific
+  google_fonts: ^6.2.1
+
+# Development Dependencies
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Local Assets
+  # -- Remove comment & preserve indentation --
+  # assets:
