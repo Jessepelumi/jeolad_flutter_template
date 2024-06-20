@@ -57,7 +57,7 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/JEOLAD/.pub-cache/hosted/pub.dev/flutter_lints-3.0.2",
+      "rootUri": "file:///Users/JEOLAD/.pub-cache/hosted/pub.dev/flutter_lints-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -105,9 +105,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/JEOLAD/.pub-cache/hosted/pub.dev/lints-3.0.0",
+      "rootUri": "file:///Users/JEOLAD/.pub-cache/hosted/pub.dev/lints-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "matcher",
@@ -260,13 +260,13 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "flutter_starter",
+      "name": "jeolad_flutter_template",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-06-20T20:49:08.169708Z",
+  "generated": "2024-06-20T21:07:27.577944Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///Users/JEOLAD/flutter",
